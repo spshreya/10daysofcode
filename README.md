@@ -1,6 +1,6 @@
-#10daysofcode
-day1: making of a file in cpp on linux and basic cpp comands
-day2: entering a string (undefined length), push_back, pop_back
-OOPs concept in cpp:
-day3: methods inside and outside the class
-day4: constuctor and destructor
+<u>#10daysofcode</u></br>
+<b>day1:</b> making of a file in cpp on linux and basic cpp comands</br>
+<b>day2:</b> entering a string (undefined length), push_back, pop_back</br>
+<b>OOPs concept in cpp:</b></br>
+<b>day3:</b> methods inside and outside the class</br>
+<b>day4:</b> constuctor and destructor</br>
