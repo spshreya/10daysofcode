@@ -5,3 +5,4 @@
 <b>day3:</b> methods inside and outside the class</br>
 <b>day4:</b> constuctor and destructor</br>
 <b>day5:</b> structures
+<b>day6:</b> Files
