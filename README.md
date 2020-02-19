@@ -6,5 +6,5 @@
 <b>day4:</b> constuctor and destructor</br>
 <b>day5:</b> structures</br>
 <b>day6:</b> Files</br>
-<b>A little bit of python</b>
-<b>day7:</b> madlibs game</br>
+<b>A little bit of python</b></br>
+<b>day7:</b> madlibs game and a secret language game</br>
