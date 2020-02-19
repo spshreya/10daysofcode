@@ -4,5 +4,7 @@
 <b>OOPs concept in cpp:</b></br>
 <b>day3:</b> methods inside and outside the class</br>
 <b>day4:</b> constuctor and destructor</br>
-<b>day5:</b> structures
-<b>day6:</b> Files
+<b>day5:</b> structures</br>
+<b>day6:</b> Files</br>
+<b>A little bit of python</b>
+<b>day7:</b> madlibs game</br>
