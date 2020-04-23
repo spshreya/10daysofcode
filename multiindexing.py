@@ -14,4 +14,4 @@ df = pd.DataFrame([purchase_1, purchase_2, purchase_3], index=['Store 1', 'Store
 df = df.set_index([df.index, 'Name'])
 df.index.names = ['Location', 'Name']
 df = df.append(pd.Series(data={'Cost': 3.00, 'Item Purchased': 'Kitty Food'}, name=('Store 2', 'Kevyn')))
-print(df)
+print(df) 
