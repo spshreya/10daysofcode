@@ -8,3 +8,4 @@
 <b>day6:</b> Files</br>
 <b>A little bit of python</b></br>
 <b>day7:</b> madlibs game and a secret language game</br>
+<b>day10:</b> python </br>
